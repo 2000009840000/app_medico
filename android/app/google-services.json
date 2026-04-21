@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698797538184",
+    "project_id": "vidaplena-633f8",
+    "storage_bucket": "vidaplena-633f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698797538184:android:74364d154870e7577b583d",
+        "android_client_info": {
+          "package_name": "com.example.app_medico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0r6quk8QUN7KHS3bonLmP9Y4S46crT0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
