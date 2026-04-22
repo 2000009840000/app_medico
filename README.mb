@@ -1,0 +1,159 @@
+Vida Plena
+
+Sobre o Projeto
+
+O Vida Plena é um aplicativo mobile desenvolvido para facilitar o agendamento de consultas médicas e o envio de lembretes automáticos, ajudando os usuários a manterem sua rotina de saúde organizada.
+
+A aplicação integra um app mobile com um backend, proporcionando uma experiência prática, intuitiva e eficiente no gerenciamento de consultas.
+
+
+ Objetivo
+
+Permitir que usuários realizem o agendamento de consultas médicas de forma simples e recebam notificações automáticas, evitando esquecimentos e promovendo maior cuidado com a saúde.
+
+Funcionalidades
+
+👤 Cadastro e autenticação de usuários
+
+📅 Agendamento de consultas médicas
+
+⏰ Lembretes automáticos de consultas
+
+📋 Visualização de consultas agendadas
+
+🔄 Reagendamento de consultas
+
+❌ Cancelamento de consultas
+
+📱 Interface simples e intuitiva
+
+
+Tecnologias Utilizadas
+
+📱 Frontend
+
+Flutter (Dart) → desenvolvimento mobile
+
+Material Design → interface moderna
+
+
+🌐 Backend
+
+Node.js → servidor da aplicação
+
+Express → criação de APIs REST
+
+Banco de Dados → Firebase
+
+
+Arquitetura do Sistema
+
+O projeto segue uma arquitetura cliente-servidor:
+
+📱 Frontend (Flutter): interface e interação com o usuário
+
+🌐 Backend (Node.js): regras de negócio e processamento
+
+💾 Banco de dados: armazenamento das informações
+
+
+
+---
+
+🚀 Como Executar o Projeto
+
+🔹 Backend (Node.js)
+
+1. Acesse a pasta do backend:
+
+
+
+cd backend
+
+2. Instale as dependências:
+
+
+
+npm install
+
+3. Inicie o servidor:
+
+
+
+npm start
+
+
+---
+
+🔹 Frontend (Flutter)
+
+1. Acesse a pasta do projeto:
+
+
+
+cd vida-plena
+
+2. Instale as dependências:
+
+
+
+flutter pub get
+
+3. Execute o app:
+
+
+
+flutter run
+
+
+---
+
+📂 Estrutura do Projeto
+
+vida-plena/
+ ├── lib/
+ │   ├── screens/
+ │   ├── widgets/
+ │   ├── models/
+ │   └── services/
+ └── backend/
+     ├── routes/
+     ├── controllers/
+     ├── models/
+     └── server.js
+
+
+---
+
+🔔 Diferencial do Projeto
+
+O principal diferencial do Vida Plena é o envio de lembretes automáticos de consultas, ajudando o usuário a manter sua rotina médica organizada e evitando faltas.
+
+
+---
+
+🎨 Design e Usabilidade
+
+Interface intuitiva
+
+Navegação simples
+
+Layout moderno
+
+Foco na experiência do usuário
+
+
+
+---
+
+Desenvolvido por
+
+Bárbara Costa Nascimento
+Estudante de Análise e Desenvolvimento de Sistemas (3 - Semestre/UNIP) 
+
+
+---
+
+📌 Observações
+
+Este projeto foi desenvolvido para fins acadêmicos, com foco na aplicação de conceitos de desenvolvimento mobile, integração com backend e experiência do usuário.
